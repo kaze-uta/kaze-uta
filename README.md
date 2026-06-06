@@ -1,23 +1,21 @@
-# kaze-uta
+<h1 align="center">Hi 👋, I'm kaze-uta</h1>
+<h3 align="center">情報系高専生 / 気になるものを作ります</h3>
 
-Information science student at a kosen (technical college).
-I build things that catch my interest. Lately I've been into making sweets.
+<p align="center">
+  <img height="20" src="https://komarev.com/ghpvc/?username=kaze-uta&label=Profile%20views&color=ff9a9e&style=flat" />
+  <a href="https://github.com/kaze-uta"><img height="20" src="https://img.shields.io/github/followers/kaze-uta?label=follow&logo=github&style=flat" /></a>
+  <a href="https://qiita.com/kazeuta"><img height="20" src="https://qiita-badge.apiapi.app/s/kazeuta/posts.svg" /></a>
+</p>
 
-## 🛠️ Tech Stack
+- 🍰 最近はスイーツづくりにはまってます
+- 📝 技術記事を [Qiita](https://qiita.com/kazeuta) に書いています
+- 🛠️ 作ったもの: [unofficial-qiita-mcp](https://github.com/kaze-uta/unofficial-qiita-mcp) / [unofficial-gemma-vlm-android](https://github.com/kaze-uta/unofficial-gemma-vlm-android)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,python,kotlin,react&theme=light)](https://skillicons.dev)
+<h3 align="left">Tech Stack</h3>
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,kotlin,react&theme=light" /></a>
+</p>
 
-## 📦 Projects
-
-- **[unofficial-qiita-mcp](https://github.com/kaze-uta/unofficial-qiita-mcp)** — An unofficial MCP server for the Qiita API v2. Lets Claude Code and other MCP clients search, fetch, post, edit, and delete articles, plus comments and stocks.
-- **[unofficial-gemma-vlm-android](https://github.com/kaze-uta/unofficial-gemma-vlm-android)** — A React Native app that runs Google's Gemma-3n vision language model fully on-device on Android. Images and text are processed locally without sending anything to the cloud.
-
-## ✍️ Writing
-
-I write technical articles on Qiita → [Qiita profile](https://qiita.com/kazeuta)
-
-## 📊 GitHub Stats
-
-![kaze-uta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaze-uta&show_icons=true&theme=graywhite)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaze-uta&layout=compact&theme=graywhite)
+<h3 align="left">Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=kaze-uta&show_icons=true&locale=en&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaze-uta&show_icons=true&locale=en&layout=compact&theme=graywhite" />
