@@ -23,7 +23,7 @@
 
 ##  Tech Stack
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,kotlin,react, c&theme=light" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,kotlin,react,c&theme=light" /></a>
 
 ##  Stats
 
