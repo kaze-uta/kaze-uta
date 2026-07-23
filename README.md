@@ -18,7 +18,6 @@
 
 ##  Projects
 
-- **[unofficial-qiita-mcp](https://github.com/kaze-uta/unofficial-qiita-mcp)** — An MCP server wrapping the Qiita API v2. Search, fetch, post, edit, delete articles, plus comments and stocks from Claude Code.
 - **[unofficial-gemma-vlm-android](https://github.com/kaze-uta/unofficial-gemma-vlm-android)** — A React Native app running Google's Gemma-3n VLM fully on-device on Android.
 
 ##  Tech Stack
